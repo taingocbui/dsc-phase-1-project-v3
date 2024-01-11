@@ -45,11 +45,11 @@ To determine the level of safety of a certain aircraft maker or model, I use the
 
 Based on our exploratory analysis, there are three recommendations I have for our stakeholders include:
 * Prioritize investing in the three aircraft makers, which have the lowest fatality/serious rate over all the accidents they experience, including Boeing, Airbus and McDonnell Douglas.
-![Heatmap](https://github.com/taingocbui/dsc-phase-1-project-v3/tree/master/photos/1.png)
+![Heatmap](https://raw.githubusercontent.com/taingocbui/dsc-phase-1-project-v3/tree/master/photos/1.png)
 * Prioritize investing in reciprocating (one or two engines) and turbo fan (2 engines) for the company aircraft's fleet. These engines types appear to have the lowest fatality/serious rate out of all accidents they experienced.
-![Engine](https://github.com/taingocbui/dsc-phase-1-project-v3/tree/master/photos/2.png)
+![Engine](https://raw.githubusercontent.com/taingocbui/dsc-phase-1-project-v3/tree/master/photos/2.png)
 * The dataset also shows that there is a high number of accidents occurred during the four major phases of flight including take-off, landing, cruise and maneuvering. In fact, maneuvering, cruise and take-off are the major phases in which lots of fatal/serious accidents occurred. My recommendation is to offer more trainings for our pilots regarding these four mentioned phases.
-![Phases](https://github.com/taingocbui/dsc-phase-1-project-v3/tree/master/photos/3.png)
+![Phases](https://raw.githubusercontent.com/taingocbui/dsc-phase-1-project-v3/tree/master/photos/3.png)
 
 
 

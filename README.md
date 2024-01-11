@@ -21,9 +21,9 @@ The table has 31 columns and 90348 data points, storing worldwide aviation accid
 ## 5. Key Questions
 
 With this project, I will address specific questions such as:
-* **What are the main causes of aviation accidents, and how can they be mitigated in our company's operations?
-* **What specific measure should be used to compare different level of safety among different aviation makers, models and engine types?
-* **What should we learn from past accidents to improve the safety and efficiency of our operations?
+* What are the main causes of aviation accidents, and how can they be mitigated in our company's operations?
+* What specific measure should be used to compare different level of safety among different aviation makers, models and engine types?
+* What should we learn from past accidents to improve the safety and efficiency of our operations?
 
 ## 6. Stakeholders
 
@@ -39,12 +39,13 @@ To determine the level of safety of a certain aircraft maker or model, I use the
 
 ## 8. Interactive Dashboard 
 
-![Here is the link to my interactive dashboard](https://public.tableau.com/views/AviationAnalysis_17046894590710/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Here is the link to my interactive dashboard](https://public.tableau.com/app/profile/tai.bui3832/viz/AviationAnalysis_17046894590710/Story1)
 
-## 8. Conclusion
+## 9. Conclusion
 
 Based on our exploratory analysis, there are three recommendations I have for our stakeholders include:
 * Prioritize investing in the three aircraft makers, which have the lowest fatality/serious rate over all the accidents they experience, including Boeing, Airbus and McDonnell Douglas.
+![Heatmap](https://github.com/taingocbui/dsc-phase-1-project-v3/tree/master/photos/Heatmap of Make and Models.png)
 * Prioritize investing in reciprocating (one or two engines) and turbo fan (2 engines) for the company aircraft's fleet. These engines types appear to have the lowest fatality/serious rate out of all accidents they experienced.
 * The dataset also shows that there is a high number of accidents occurred during the four major phases of flight including take-off, landing, cruise and maneuvering. In fact, maneuvering, cruise and take-off are the major phases in which lots of fatal/serious accidents occurred. My recommendation is to offer more trainings for our pilots regarding these four mentioned phases.
 

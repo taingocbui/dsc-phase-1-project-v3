@@ -6,7 +6,7 @@ This data exploratory project focuses on analyzing aviation accident data from t
 
 ## 2. Data Source
 
-This aviation dataset is [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board, including accident aviation data from 1962 to 2023 about civil aviation accidents about civil aviation accidents and selected incidents in the United States and international waters.
+This aviation dataset is [dataset](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from the National Transportation Safety Board, including accident aviation data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
 
 ## 3. Data Overview
 

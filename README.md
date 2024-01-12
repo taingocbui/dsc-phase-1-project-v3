@@ -1,5 +1,8 @@
 # Aviation Data Exploratory Analysis
 
+Author: Tai Ngoc Bui
+Date Completion: January 13th, 2024
+
 ## 1. Project Overview
 
 This data exploratory project focuses on analyzing aviation accident data from the National Transportation Safety Board (NTSB) to support the company's strategic investment in operating airplanes within commercial and private enterprises. The goal is to gain valuable insights into aviation incidents, identify patterns, and provide meaningful recommendations to major stakeholders of the investments.
@@ -11,6 +14,8 @@ This aviation dataset is [dataset](https://www.kaggle.com/datasets/khsamaha/avia
 ## 3. Data Overview
 
 The table has 31 columns and 90348 data points, storing worldwide aviation accidents. These data fields include  details such as accident locations, date, injuries, contributing factors and probable causes reports. It not only includes airplanes' accidents data, but also other aircraft categories such as helicopter, balloon, gyrocraft, etc. 
+
+![Overview](https://github.com/taingocbui/dsc-phase-1-project-v3/blob/master/photos/5.png)
 
 ## 4. Objectives
 * Explore and analyze the dataset to identify safety trends in aviation industry, as well as patterns and factors contributing to aviation accidents.

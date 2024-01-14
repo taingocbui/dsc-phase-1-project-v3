@@ -1,7 +1,7 @@
 # Aviation Data Exploratory Analysis
 
-Author: Tai Ngoc Bui
-Date Completion: January 13th, 2024
+##### Author: Tai Ngoc Bui
+##### Date Completion: January 13th, 2024
 
 ## 1. Project Overview
 
